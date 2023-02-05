@@ -1,2 +1,3 @@
-# nlw-setup-
+# nlw-setup
+
 Calendário de hábitos
